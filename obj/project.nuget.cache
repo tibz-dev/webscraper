@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ApDfwdO0F3Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sesha\\WebScraper\\WebScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sesha\\.nuget\\packages\\htmlagilitypack\\1.12.1\\htmlagilitypack.1.12.1.nupkg.sha512"
+  ],
+  "logs": []
+}
